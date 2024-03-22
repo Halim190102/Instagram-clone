@@ -1,4 +1,4 @@
-# new_app
+# Instagram-Clone
 
 A new Flutter project.
 
