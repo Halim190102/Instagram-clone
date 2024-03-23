@@ -1,4 +1,4 @@
-# Instagram-Clone
+# Flutter-Instagram-Clone
 
 A new Flutter project.
 
